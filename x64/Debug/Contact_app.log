@@ -1,0 +1,55 @@
+﻿  contact.cpp
+C:\Users\moaza\Desktop\Contact_app\phone.h(11,1): error C2011: 'Phone': 'class' type redefinition
+C:\Users\moaza\Desktop\Contact_app\phone.h(10): message : see declaration of 'Phone'
+C:\Users\moaza\Desktop\Contact_app\Address.h(10,1): error C2011: 'Address': 'class' type redefinition
+C:\Users\moaza\Desktop\Contact_app\Address.h(9): message : see declaration of 'Address'
+C:\Users\moaza\Desktop\Contact_app\Email.h(7,1): error C2011: 'Email': 'class' type redefinition
+C:\Users\moaza\Desktop\Contact_app\Email.h(6): message : see declaration of 'Email'
+C:\Users\moaza\Desktop\Contact_app\User.h(11,1): error C2011: 'User': 'class' type redefinition
+C:\Users\moaza\Desktop\Contact_app\User.h(10): message : see declaration of 'User'
+C:\Users\moaza\Desktop\Contact_app\contact.cpp(11,30): error C2027: use of undefined type 'User'
+C:\Users\moaza\Desktop\Contact_app\User.h(10): message : see declaration of 'User'
+C:\Users\moaza\Desktop\Contact_app\contact.cpp(17,17): warning C4150: deletion of pointer to incomplete type 'User'; no destructor called
+C:\Users\moaza\Desktop\Contact_app\User.h(10): message : see declaration of 'User'
+C:\Users\moaza\Desktop\Contact_app\contact.cpp(22,29): error C2027: use of undefined type 'User'
+C:\Users\moaza\Desktop\Contact_app\User.h(10): message : see declaration of 'User'
+C:\Users\moaza\Desktop\Contact_app\contact.cpp(23,10): error C2027: use of undefined type 'User'
+C:\Users\moaza\Desktop\Contact_app\User.h(10): message : see declaration of 'User'
+C:\Users\moaza\Desktop\Contact_app\contact.cpp(40,6): error C2027: use of undefined type 'User'
+C:\Users\moaza\Desktop\Contact_app\User.h(10): message : see declaration of 'User'
+C:\Users\moaza\Desktop\Contact_app\contact.cpp(76,6): error C2027: use of undefined type 'User'
+C:\Users\moaza\Desktop\Contact_app\User.h(10): message : see declaration of 'User'
+C:\Users\moaza\Desktop\Contact_app\contact.cpp(78,13): error C2027: use of undefined type 'User'
+C:\Users\moaza\Desktop\Contact_app\User.h(10): message : see declaration of 'User'
+C:\Users\moaza\Desktop\Contact_app\contact.cpp(102,12): error C2027: use of undefined type 'User'
+C:\Users\moaza\Desktop\Contact_app\User.h(10): message : see declaration of 'User'
+C:\Users\moaza\Desktop\Contact_app\contact.cpp(112,6): error C2027: use of undefined type 'User'
+C:\Users\moaza\Desktop\Contact_app\User.h(10): message : see declaration of 'User'
+C:\Users\moaza\Desktop\Contact_app\contact.cpp(114,13): error C2027: use of undefined type 'User'
+C:\Users\moaza\Desktop\Contact_app\User.h(10): message : see declaration of 'User'
+  main.cpp
+C:\Users\moaza\Desktop\Contact_app\phone.h(11,1): error C2011: 'Phone': 'class' type redefinition
+C:\Users\moaza\Desktop\Contact_app\phone.h(10): message : see declaration of 'Phone'
+C:\Users\moaza\Desktop\Contact_app\Address.h(10,1): error C2011: 'Address': 'class' type redefinition
+C:\Users\moaza\Desktop\Contact_app\Address.h(9): message : see declaration of 'Address'
+C:\Users\moaza\Desktop\Contact_app\Email.h(7,1): error C2011: 'Email': 'class' type redefinition
+C:\Users\moaza\Desktop\Contact_app\Email.h(6): message : see declaration of 'Email'
+C:\Users\moaza\Desktop\Contact_app\User.h(11,1): error C2011: 'User': 'class' type redefinition
+C:\Users\moaza\Desktop\Contact_app\User.h(10): message : see declaration of 'User'
+C:\Users\moaza\Desktop\Contact_app\main.cpp(22,17): warning C4129: '-': unrecognized character escape sequence
+  User.cpp
+C:\Users\moaza\Desktop\Contact_app\phone.h(11,1): error C2011: 'Phone': 'class' type redefinition
+C:\Users\moaza\Desktop\Contact_app\phone.h(10): message : see declaration of 'Phone'
+C:\Users\moaza\Desktop\Contact_app\User.cpp(12,36): error C2027: use of undefined type 'Phone'
+C:\Users\moaza\Desktop\Contact_app\phone.h(10): message : see declaration of 'Phone'
+C:\Users\moaza\Desktop\Contact_app\User.cpp(28,19): warning C4150: deletion of pointer to incomplete type 'Phone'; no destructor called
+C:\Users\moaza\Desktop\Contact_app\phone.h(10): message : see declaration of 'Phone'
+C:\Users\moaza\Desktop\Contact_app\User.cpp(51,15): error C2027: use of undefined type 'Phone'
+C:\Users\moaza\Desktop\Contact_app\phone.h(10): message : see declaration of 'Phone'
+C:\Users\moaza\Desktop\Contact_app\User.cpp(123,48): error C2027: use of undefined type 'Phone'
+C:\Users\moaza\Desktop\Contact_app\phone.h(10): message : see declaration of 'Phone'
+C:\Users\moaza\Desktop\Contact_app\User.cpp(152,6): error C2374: 'n': redefinition; multiple initialization
+C:\Users\moaza\Desktop\Contact_app\User.cpp(104): message : see declaration of 'n'
+C:\Users\moaza\Desktop\Contact_app\User.cpp(217,7): error C2027: use of undefined type 'Phone'
+C:\Users\moaza\Desktop\Contact_app\phone.h(10): message : see declaration of 'Phone'
+  Generating Code...
